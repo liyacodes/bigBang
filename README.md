@@ -4,7 +4,6 @@ A Python project that iterates through 1 to 100 and replaces any number divisibl
 ## Requirements
 
 - Python 3.x
-- Python IDLE 3.x
 
 ## How to Use
 
