@@ -11,7 +11,9 @@ A Python project that iterates through 1 to 100 and replaces any number divisibl
 
 2. Open a terminal or command prompt and navigate to the project directory.
 
-3. Run the `main.py` file.
+3. Run the `main.py` file by executing the following command:
+
+   python main.py
 
 4. After running the script, the results will be saved in a file named `output.json` in the project directory. The `output.json` file will contain the array in JSON format with the replaced numbers.
 
